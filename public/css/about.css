@@ -16,6 +16,9 @@ a{
 a:hover{
 	color: gold;
 }
+a:focus{
+	color: yellow;
+}
 #logo{
 	 display: block;
 	  margin-left: auto;
